@@ -5,6 +5,14 @@
     "timestamp": "2022-12-07T07:00:00Z",
     "tokens": [
         {
+            "name": "VERSE",
+            "chainId": 1,
+            "symbol": "VERSE",
+            "decimals": 18,
+            "address": "0x249ca82617ec3dfb2589c4c17ab7ec9765350a18",
+            "logoURI": "https://markets.bitcoin.com/images/coins/verse.png"
+        },
+        {
             "name": "VERSE-X-VERSE-DAI",
             "chainId": 1,
             "symbol": "VERSE-X",
