@@ -5,25 +5,25 @@
     "timestamp": "2022-12-07T07:00:00Z",
     "tokens": [
         {
-            "name": "VerseX-VERSE-DAI",
+            "name": "VERSE-X-VERSE-DAI",
             "chainId": 1,
-            "symbol": "VERSE",
+            "symbol": "VERSE-X",
             "decimals": 18,
             "address": "0x85b7d676185508c9edfe8bae73e2ad9bbbde596b",
             "logoURI": "https://markets.bitcoin.com/images/coins/verse.png"
         },
         {
-            "name": "VerseX-VERSE-USDC",
+            "name": "VERSE-X-VERSE-USDC",
             "chainId": 1,
-            "symbol": "VERSE",
+            "symbol": "VERSE-X",
             "decimals": 18,
             "address": "0x928df92e4f5901a199d45938b90554983bdd455a",
             "logoURI": "https://markets.bitcoin.com/images/coins/verse.png"
         },
         {
-            "name": "VerseX-VERSE-WETH",
+            "name": "VERSE-X-VERSE-WETH",
             "chainId": 1,
-            "symbol": "VERSE",
+            "symbol": "VERSE-X",
             "decimals": 18,
             "address": "0x845c0179060362f071ff5c7f1d2703617a480f3e",
             "logoURI": "https://markets.bitcoin.com/images/coins/verse.png"
